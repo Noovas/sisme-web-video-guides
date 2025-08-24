@@ -10,7 +10,7 @@
         "video_url": "https://youtu.be/uD28pLvuSd8",
         "module": "general",
         "category": "bases",
-        "duration": "à définir",
+        "duration": "1:31",
         "tags": ["admin", "présentation", "débutant"]
       },
       {
@@ -21,6 +21,7 @@
         "video_url": "https://youtu.be/UrrC5oe4Exk",
         "module": "documents",
         "category": "gestion",
+        "duration": "2:23",
         "tags": ["documents", "factures", "contrats", "rapports"]
       },
       {
@@ -31,6 +32,7 @@
         "video_url": "https://youtu.be/ycvwWnSXemc",
         "module": "client-amelia",
         "category": "planning",
+        "duration": "4:28",
         "tags": ["rendez-vous", "calendrier", "planning"]
       },
       {
@@ -41,6 +43,7 @@
         "video_url": "https://youtu.be/KURGmiCMe_Q",
         "module": "client-amelia",
         "category": "creation",
+        "duration": "7:17",
         "tags": ["création", "rendez-vous", "réservation"]
       },
       {
@@ -51,6 +54,7 @@
         "video_url": "https://youtu.be/dljOxPFiGDY",
         "module": "clients",
         "category": "gestion",
+        "duration": "3:12",
         "tags": ["clients", "création", "modification", "profils"]
       },
       {
@@ -61,7 +65,8 @@
         "video_url": "https://youtu.be/eHE_I1TaptE",
         "module": "client-amelia",
         "category": "gestion",
-        "tags": ["annulation", "remboursement", "gestion"]
+        "duration": "3:40",
+        "tags": ["annulation", "remboursement", "gestion", "rendez-vous"]
       },
       {
         "id": "admin-statut-ateliers",
@@ -71,6 +76,7 @@
         "video_url": "https://youtu.be/1aHQK3qnTbo",
         "module": "client-amelia",
         "category": "gestion",
+        "duration": "2:43",
         "tags": ["statuts", "ateliers", "rendez-vous", "suivi"]
       },
       {
@@ -81,6 +87,7 @@
         "video_url": "https://youtu.be/-Q0PC95tqaY",
         "module": "client-giftcards",
         "category": "giftcards",
+        "duration": "3:57",
         "tags": ["carte cadeau", "magasin", "vente physique"]
       },
       {
@@ -91,6 +98,7 @@
         "video_url": "https://youtu.be/ALgnLm74zec",
         "module": "client-giftcards",
         "category": "giftcards",
+        "duration": "7:57",
         "tags": ["carte cadeau", "réservation", "configuration"]
       },
       {
@@ -101,6 +109,7 @@
         "video_url": "https://youtu.be/NWjJhf7XBe8",
         "module": "factures",
         "category": "comptabilite",
+        "duration": "2:11",
         "tags": ["factures", "comptabilité", "liste", "consultation"]
       }
     ]
