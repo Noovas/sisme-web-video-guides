@@ -8,7 +8,7 @@
         "title": "Présentation de l'administration",
         "description": "Vue d'ensemble de l'interface d'administration Sisme",
         "video_url": "https://youtu.be/uD28pLvuSd8",
-        "module": "general",
+        "module": "Sisme Web",
         "category": "bases",
         "duration": "1:31",
         "tags": ["admin", "présentation", "débutant"]
@@ -19,7 +19,7 @@
         "title": "Mes documents - Rapports factures contrats",
         "description": "Gestion et consultation des documents administratifs",
         "video_url": "https://youtu.be/UrrC5oe4Exk",
-        "module": "documents",
+        "module": "Sisme Web",
         "category": "gestion",
         "duration": "2:23",
         "tags": ["documents", "factures", "contrats", "rapports"]
@@ -30,7 +30,7 @@
         "title": "Rendez-vous - Calendrier et liste",
         "description": "Navigation dans le calendrier et consultation des rendez-vous",
         "video_url": "https://youtu.be/ycvwWnSXemc",
-        "module": "client-amelia",
+        "module": "Amelia RDV",
         "category": "planning",
         "duration": "4:28",
         "tags": ["rendez-vous", "calendrier", "planning"]
@@ -41,7 +41,7 @@
         "title": "Créer un rendez-vous",
         "description": "Processus de création d'un nouveau rendez-vous",
         "video_url": "https://youtu.be/KURGmiCMe_Q",
-        "module": "client-amelia",
+        "module": "Amelia RDV",
         "category": "creation",
         "duration": "7:17",
         "tags": ["création", "rendez-vous", "réservation"]
@@ -52,7 +52,7 @@
         "title": "Modifier ou créer un client",
         "description": "Gestion des fiches clients et création de nouveaux profils",
         "video_url": "https://youtu.be/tJ_9P97wdPw",
-        "module": "clients",
+        "module": "Amelia RDV",
         "category": "gestion",
         "duration": "3:12",
         "tags": ["clients", "création", "modification", "profils"]
@@ -63,7 +63,7 @@
         "title": "Annulation et remboursement",
         "description": "Processus d'annulation de rendez-vous et gestion des remboursements",
         "video_url": "https://youtu.be/eHE_I1TaptE",
-        "module": "client-amelia",
+        "module": "Amelia RDV",
         "category": "gestion",
         "duration": "3:40",
         "tags": ["annulation", "remboursement", "gestion", "rendez-vous"]
@@ -74,7 +74,7 @@
         "title": "Statut des ateliers ou rendez-vous",
         "description": "Comprendre et gérer les différents statuts des réservations",
         "video_url": "https://youtu.be/1aHQK3qnTbo",
-        "module": "client-amelia",
+        "module": "Amelia RDV",
         "category": "gestion",
         "duration": "2:43",
         "tags": ["statuts", "ateliers", "rendez-vous", "suivi"]
@@ -85,7 +85,7 @@
         "title": "Carte Cadeau en magasin",
         "description": "Gestion des cartes cadeaux pour vente en magasin",
         "video_url": "https://youtu.be/-Q0PC95tqaY",
-        "module": "client-giftcards",
+        "module": "Carte Cadeau",
         "category": "giftcards",
         "duration": "3:57",
         "tags": ["carte cadeau", "magasin", "vente physique"]
@@ -97,7 +97,7 @@
         "description": "Configuration des cartes cadeaux dédiées aux réservations",
         "video_url": "https://youtu.be/ALgnLm74zec",
         "module": "client-giftcards",
-        "category": "giftcards",
+        "category": "Carte Cadeau",
         "duration": "7:57",
         "tags": ["carte cadeau", "réservation", "configuration"]
       },
@@ -107,7 +107,7 @@
         "title": "Liste des factures",
         "description": "Consultation et gestion de la liste des factures",
         "video_url": "https://youtu.be/NWjJhf7XBe8",
-        "module": "factures",
+        "module": "Amelia RDV",
         "category": "comptabilite",
         "duration": "2:11",
         "tags": ["factures", "comptabilité", "liste", "consultation"]
