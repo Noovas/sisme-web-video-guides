@@ -1,0 +1,107 @@
+{
+    "version": "2024-08-24",
+    "last_updated": "2024-08-24T10:00:00Z",
+    "guides": [
+      {
+        "id": "admin-presentation",
+        "order": 1,
+        "title": "Présentation de l'administration",
+        "description": "Vue d'ensemble de l'interface d'administration Sisme",
+        "video_url": "https://youtu.be/uD28pLvuSd8",
+        "module": "general",
+        "category": "bases",
+        "duration": "à définir",
+        "tags": ["admin", "présentation", "débutant"]
+      },
+      {
+        "id": "admin-documents",
+        "order": 2,
+        "title": "Mes documents - Rapports factures contrats",
+        "description": "Gestion et consultation des documents administratifs",
+        "video_url": "https://youtu.be/UrrC5oe4Exk",
+        "module": "documents",
+        "category": "gestion",
+        "tags": ["documents", "factures", "contrats", "rapports"]
+      },
+      {
+        "id": "admin-rdv-calendrier",
+        "order": 3,
+        "title": "Rendez-vous - Calendrier et liste",
+        "description": "Navigation dans le calendrier et consultation des rendez-vous",
+        "video_url": "https://youtu.be/ycvwWnSXemc",
+        "module": "client-amelia",
+        "category": "planning",
+        "tags": ["rendez-vous", "calendrier", "planning"]
+      },
+      {
+        "id": "admin-creer-rdv",
+        "order": 4,
+        "title": "Créer un rendez-vous",
+        "description": "Processus de création d'un nouveau rendez-vous",
+        "video_url": "https://youtu.be/KURGmiCMe_Q",
+        "module": "client-amelia",
+        "category": "creation",
+        "tags": ["création", "rendez-vous", "réservation"]
+      },
+      {
+        "id": "admin-gestion-clients",
+        "order": 5,
+        "title": "Modifier ou créer un client",
+        "description": "Gestion des fiches clients et création de nouveaux profils",
+        "video_url": "https://youtu.be/dljOxPFiGDY",
+        "module": "clients",
+        "category": "gestion",
+        "tags": ["clients", "création", "modification", "profils"]
+      },
+      {
+        "id": "admin-annulation-remboursement",
+        "order": 6,
+        "title": "Annulation et remboursement",
+        "description": "Processus d'annulation de rendez-vous et gestion des remboursements",
+        "video_url": "https://youtu.be/eHE_I1TaptE",
+        "module": "client-amelia",
+        "category": "gestion",
+        "tags": ["annulation", "remboursement", "gestion"]
+      },
+      {
+        "id": "admin-statut-ateliers",
+        "order": 7,
+        "title": "Statut des ateliers ou rendez-vous",
+        "description": "Comprendre et gérer les différents statuts des réservations",
+        "video_url": "https://youtu.be/1aHQK3qnTbo",
+        "module": "client-amelia",
+        "category": "gestion",
+        "tags": ["statuts", "ateliers", "rendez-vous", "suivi"]
+      },
+      {
+        "id": "admin-giftcard-magasin",
+        "order": 8,
+        "title": "Carte Cadeau en magasin",
+        "description": "Gestion des cartes cadeaux pour vente en magasin",
+        "video_url": "https://youtu.be/-Q0PC95tqaY",
+        "module": "client-giftcards",
+        "category": "giftcards",
+        "tags": ["carte cadeau", "magasin", "vente physique"]
+      },
+      {
+        "id": "admin-giftcard-reservation",
+        "order": 9,
+        "title": "Carte Cadeau pour réservation uniquement",
+        "description": "Configuration des cartes cadeaux dédiées aux réservations",
+        "video_url": "https://youtu.be/ALgnLm74zec",
+        "module": "client-giftcards",
+        "category": "giftcards",
+        "tags": ["carte cadeau", "réservation", "configuration"]
+      },
+      {
+        "id": "admin-liste-factures",
+        "order": 10,
+        "title": "Liste des factures",
+        "description": "Consultation et gestion de la liste des factures",
+        "video_url": "https://youtu.be/NWjJhf7XBe8",
+        "module": "factures",
+        "category": "comptabilite",
+        "tags": ["factures", "comptabilité", "liste", "consultation"]
+      }
+    ]
+  }
